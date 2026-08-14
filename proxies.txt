@@ -1,0 +1,5 @@
+# Format: ip:port atau http://ip:port atau https://ip:port
+# Ambil proxy gratis dari https://free-proxy-list.net/
+123.123.123.123:8080
+http://124.124.124.124:3128
+https://125.125.125.125:1080
